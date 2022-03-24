@@ -1,0 +1,25 @@
+.btn {
+	@apply text-white text-xs px-3 py-1 mx-1 rounded-md shadow-md duration-300;
+}
+
+.btn-blue {
+	@apply bg-blue-500;
+}
+
+.btn-blue:hover {
+	@apply bg-blue-700;
+}
+.btn-red {
+	@apply bg-red-500;
+}
+
+.btn-red:hover {
+	@apply bg-red-700;
+}
+.btn-green {
+	@apply bg-green-500;
+}
+
+.btn-green:hover {
+	@apply bg-green-700;
+}
